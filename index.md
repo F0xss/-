@@ -1,5 +1,5 @@
 ## Создание и настройка ваших сайтов
-По всем вопросам пишите на [Гитхабе](https://github.com/F0xss)
+## По всем вопросам пишите на [Гитхабе](https://github.com/F0xss)
 
 
 ```markdown
@@ -19,4 +19,3 @@ Syntax highlighted code block (3 `)
 
 [Link](url) and ![Image](src)
 ```
-
